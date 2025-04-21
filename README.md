@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
+| [2249-count-the-hidden-sequences](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2249-count-the-hidden-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
+## Prefix Sum
+|  |
+| ------- |
+| [2249-count-the-hidden-sequences](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2249-count-the-hidden-sequences) |
 <!---LeetCode Topics End-->
