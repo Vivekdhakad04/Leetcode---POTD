@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -41,4 +43,12 @@
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2249-count-the-hidden-sequences) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
