@@ -9,6 +9,7 @@
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [2249-count-the-hidden-sequences](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2249-count-the-hidden-sequences) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2915-count-of-interesting-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2915-count-of-interesting-subarrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2915-count-of-interesting-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2249-count-the-hidden-sequences) |
+| [2915-count-of-interesting-subarrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2915-count-of-interesting-subarrays) |
 ## Combinatorics
 |  |
 | ------- |
