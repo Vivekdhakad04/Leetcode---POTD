@@ -8,6 +8,7 @@
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [2249-count-the-hidden-sequences](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2249-count-the-hidden-sequences) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2915-count-of-interesting-subarrays) |
 ## Divide and Conquer
@@ -61,5 +62,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
