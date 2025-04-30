@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2249-count-the-hidden-sequences](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Greedy
