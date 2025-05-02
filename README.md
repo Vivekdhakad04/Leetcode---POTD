@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
+| [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Hash Table
 |  |
@@ -90,4 +91,12 @@
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
+## String
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
