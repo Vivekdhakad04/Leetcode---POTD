@@ -20,6 +20,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -37,6 +38,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3637-count-number-of-balanced-permutations) |
@@ -81,6 +83,7 @@
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Prefix Sum
 |  |
@@ -127,6 +130,7 @@
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3637-count-number-of-balanced-permutations) |
