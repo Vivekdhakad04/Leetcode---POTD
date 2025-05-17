@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
@@ -57,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2215-finding-3-digit-even-numbers) |
@@ -125,6 +127,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 ## String
 |  |
