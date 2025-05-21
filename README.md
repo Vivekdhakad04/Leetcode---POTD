@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -160,6 +162,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
