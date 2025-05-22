@@ -39,6 +39,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
+| [0516-longest-palindromic-subsequence](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -140,6 +141,7 @@
 ## String
 |  |
 | ------- |
+| [0516-longest-palindromic-subsequence](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
