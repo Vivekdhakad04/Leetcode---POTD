@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
@@ -156,6 +157,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2048-build-array-from-permutation) |
 ## Graph
 |  |
@@ -171,6 +173,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
