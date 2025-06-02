@@ -9,6 +9,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0135-candy) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0945-snakes-and-ladders) |
@@ -104,6 +105,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
