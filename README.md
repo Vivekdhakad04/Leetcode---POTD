@@ -70,6 +70,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2915-count-of-interesting-subarrays) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
@@ -113,6 +114,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -170,6 +172,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3637-count-number-of-balanced-permutations) |
@@ -189,6 +192,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3647-zero-array-transformation-iii) |
@@ -240,4 +244,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
