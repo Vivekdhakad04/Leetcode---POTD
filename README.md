@@ -12,6 +12,7 @@
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0945-snakes-and-ladders) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -80,6 +83,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2215-finding-3-digit-even-numbers) |
@@ -88,6 +92,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
