@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
@@ -161,6 +162,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
