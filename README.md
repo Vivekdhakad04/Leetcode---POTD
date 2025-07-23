@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -70,6 +71,7 @@
 | [0169-majority-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -148,6 +150,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0940-fruit-into-baskets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
