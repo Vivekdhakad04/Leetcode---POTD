@@ -176,6 +176,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -273,4 +274,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
