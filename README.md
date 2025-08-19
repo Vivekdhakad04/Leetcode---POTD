@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -54,6 +55,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0806-domino-and-tromino-tiling) |
@@ -122,6 +124,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1049-minimum-domino-rotations-for-equal-row) |
