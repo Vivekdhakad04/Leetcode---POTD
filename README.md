@@ -36,6 +36,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2915-count-of-interesting-subarrays) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3194-find-words-containing-character) |
@@ -99,6 +100,7 @@
 | [0229-majority-element-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0229-majority-element-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2215-finding-3-digit-even-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3321-type-of-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2215-finding-3-digit-even-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Topological Sort
