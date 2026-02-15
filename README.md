@@ -117,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0067-add-binary) |
 | [0797-rabbits-in-forest](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1500-count-largest-group) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0005-longest-palindromic-substring) |
+| [0067-add-binary](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0067-add-binary) |
 | [0516-longest-palindromic-subsequence](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0516-longest-palindromic-subsequence) |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0067-add-binary) |
 | [2048-build-array-from-permutation](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/2048-build-array-from-permutation) |
 ## Graph
 |  |
@@ -291,4 +294,8 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0061-rotate-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
