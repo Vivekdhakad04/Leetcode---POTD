@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0064-minimum-path-sum) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0118-pascals-triangle) |
@@ -190,6 +192,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0868-push-dominoes) |
@@ -287,6 +290,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0042-trapping-rain-water) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
@@ -302,4 +306,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0190-reverse-bits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Vivekdhakad04/Leetcode---POTD/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
